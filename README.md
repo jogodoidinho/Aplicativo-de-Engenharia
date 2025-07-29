@@ -4,7 +4,7 @@ Um aplicativo desktop (.EXE) desenvolvido em **Python**, com foco na **automaç�
 
 Este projeto oferece uma interface gráfica amigável para acesso rápido a diversos tópicos importantes, como transporte inteligente, bilhetagem integrada, infraestrutura conectada, entre outros.
 
-![Interface do Aplicativo](./screenshot.png) <!-- Substitua pelo nome correto da imagem no seu repositório -->
+![Interface do Aplicativo](./2a014c82-965f-4bf8-bf3d-404b56bd24e3.png)
 
 ## 🔧 Funcionalidades
 
